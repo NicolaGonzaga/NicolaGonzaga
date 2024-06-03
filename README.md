@@ -1,4 +1,4 @@
-![Banner](https://github.com/NicolaGonzaga/NicolaGonzaga/assets/43481923/ad2a25e7-9798-41ed-a47e-65891fe2e005)
+![Banner](https://github.com/NicolaGonzaga/NicolaGonzaga/assets/43481923/a07b6e56-0fbd-4580-a10e-cfa5ec333ad0)
 
 # Hi there, I'm Nicola! 
 I'm a software developer who loves crafting user interfaces that people connect with.
