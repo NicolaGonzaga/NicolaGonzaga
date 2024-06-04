@@ -1,6 +1,6 @@
 ![Banner](https://github.com/NicolaGonzaga/NicolaGonzaga/assets/43481923/a07b6e56-0fbd-4580-a10e-cfa5ec333ad0)
 
-# Hi there, I'm Nicola! 
+# Hi there! ☻
 I'm a software developer who loves crafting user interfaces that people connect with.
 
 ## 🚀 Technologies and Tools
